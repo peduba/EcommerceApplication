@@ -40,7 +40,7 @@ public class AccountRegistrationTest extends BaseClass{
 		logger.info("click on contine button");
 		String confmsg=reg.getconfirmationMessage();
 		//Assert.assertEquals(confmsg, "Your Account Has Been Created!");
-		if(confmsg.equals("Your Account Has Been Created!!"))
+		if(confmsg.equals("Your Account Has Been Created!"))
 		{
 			Assert.assertTrue(true);
 		}
