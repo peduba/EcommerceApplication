@@ -1,0 +1,59 @@
+13:51:24:821  [main] INFO  testCases.AccountRegistrationTest - Entered gmail
+13:51:24:948  [main] INFO  testCases.AccountRegistrationTest - Enterd telephone number
+13:51:25:019  [main] INFO  testCases.AccountRegistrationTest - Enterd password
+13:51:25:068  [main] INFO  testCases.AccountRegistrationTest - Enterd confirm password
+13:51:26:063  [main] INFO  testCases.AccountRegistrationTest - click on contine button
+13:51:26:082  [main] ERROR testCases.AccountRegistrationTest - Test case failed
+13:51:26:083  [main] DEBUG testCases.AccountRegistrationTest - debug logs
+13:51:52:345  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harikrishna Inampudi\eclipse-workspace\EcommerceApplication\crossbrowsingtesting.xml"
+13:51:52:765  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harikrishna Inampudi\eclipse-workspace\EcommerceApplication\crossbrowsingtesting.xml
+
+13:51:57:645  [main] INFO  testCases.AccountRegistrationTest - ***test case started***
+13:51:57:721  [main] INFO  testCases.AccountRegistrationTest - Entered firstname
+13:51:57:783  [main] INFO  testCases.AccountRegistrationTest - Enterd lastname
+13:51:57:845  [main] INFO  testCases.AccountRegistrationTest - Entered gmail
+13:51:57:889  [main] INFO  testCases.AccountRegistrationTest - Enterd telephone number
+13:51:57:937  [main] INFO  testCases.AccountRegistrationTest - Enterd password
+13:51:57:986  [main] INFO  testCases.AccountRegistrationTest - Enterd confirm password
+13:51:58:110  [main] INFO  testCases.AccountRegistrationTest - click on contine button
+13:51:58:699  [main] ERROR testCases.AccountRegistrationTest - Test case failed
+13:51:58:699  [main] DEBUG testCases.AccountRegistrationTest - debug logs
+13:52:02:297  [main] INFO  testCases.AccountRegistrationTest - ***test case started***
+13:52:02:462  [main] INFO  testCases.AccountRegistrationTest - Entered firstname
+13:52:02:611  [main] INFO  testCases.AccountRegistrationTest - Enterd lastname
+13:52:02:720  [main] INFO  testCases.AccountRegistrationTest - Entered gmail
+13:52:02:815  [main] INFO  testCases.AccountRegistrationTest - Enterd telephone number
+13:52:02:901  [main] INFO  testCases.AccountRegistrationTest - Enterd password
+13:52:02:975  [main] INFO  testCases.AccountRegistrationTest - Enterd confirm password
+13:52:03:842  [main] INFO  testCases.AccountRegistrationTest - click on contine button
+13:52:03:875  [main] ERROR testCases.AccountRegistrationTest - Test case failed
+13:52:03:875  [main] DEBUG testCases.AccountRegistrationTest - debug logs
+13:52:11:064  [main] INFO  testCases.AccountRegistrationTest - ***test case started***
+13:52:11:290  [main] INFO  testCases.AccountRegistrationTest - Entered firstname
+13:52:11:515  [main] INFO  testCases.AccountRegistrationTest - Enterd lastname
+13:52:11:716  [main] INFO  testCases.AccountRegistrationTest - Entered gmail
+13:52:11:868  [main] INFO  testCases.AccountRegistrationTest - Enterd telephone number
+13:52:12:000  [main] INFO  testCases.AccountRegistrationTest - Enterd password
+13:52:12:135  [main] INFO  testCases.AccountRegistrationTest - Enterd confirm password
+13:52:13:232  [main] INFO  testCases.AccountRegistrationTest - click on contine button
+13:52:13:274  [main] ERROR testCases.AccountRegistrationTest - Test case failed
+13:52:13:274  [main] DEBUG testCases.AccountRegistrationTest - debug logs
+13:54:02:360  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harikrishna Inampudi\eclipse-workspace\EcommerceApplication\crossbrowsingtesting.xml"
+13:54:02:682  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harikrishna Inampudi\eclipse-workspace\EcommerceApplication\crossbrowsingtesting.xml
+
+13:54:08:101  [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ***test case started***
+13:54:08:452  [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Entered firstname
+13:54:09:079  [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Enterd lastname
+13:54:09:106  [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ***test case started***
+13:54:09:386  [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Entered firstname
+13:54:09:569  [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Entered gmail
+13:54:09:610  [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Enterd lastname
+13:54:09:680  [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Enterd telephone number
+13:54:09:730  [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Entered gmail
+13:54:09:789  [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Enterd password
+13:54:09:823  [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Enterd telephone number
+13:54:09:944  [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Enterd password
+13:54:09:956  [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Enterd confirm password
+13:54:10:049  [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Enterd confirm password
